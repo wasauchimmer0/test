@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ***Python Basic Project TO DO LIST.***
+=======
+# **Python Basic Project TO DO LIST.**
+>>>>>>> 31f5bf2 (gg)
 
 https://realpython.com/python-wordle-clone/
 
@@ -26,3 +30,6 @@ https://realpython.com/pandas-project-gradebook/
 https://realpython.com/django-flashcards-app/
 
 https://realpython.com/django-diary-project-python/
+
+
+new line
