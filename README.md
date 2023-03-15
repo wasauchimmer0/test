@@ -34,7 +34,3 @@ https://realpython.com/pandas-project-gradebook/
 https://realpython.com/django-flashcards-app/
 
 https://realpython.com/django-diary-project-python/
-
-
-new line
-
