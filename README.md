@@ -1,4 +1,4 @@
-** Python Basic Project TO DO LIST. **
+**Python Basic Project TO DO LIST.**
 
 https://realpython.com/python-wordle-clone/
 
